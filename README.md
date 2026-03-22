@@ -6,6 +6,7 @@
 
 
 !!!Os dados brutos não foram incluídos no repositório devido ao seu grande volume. Eles podem ser obtidos via Kaggle em https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?resource=download!!!
+
 \-> **Objetivo:** Construir um pipeline completo de dados utilizando uma base de e-commerce, passando pelas camadas Bronze, Silver e Gold, com foco em ingestão, tratamento, modelagem e análise de dados.
 
 
